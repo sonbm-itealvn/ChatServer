@@ -1,0 +1,44 @@
+[
+  {
+    "step": 1,
+    "title": "Truy cập màn hình quản lý lĩnh vực/dự án trên Fiine để tạo mới lĩnh vực/dự án. Chọn ‘Cài đặt’ -> ‘Lĩnh vực, dự án’ -> ‘Tạo mới lĩnh vực/dự án’.",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b1.png"
+  },
+  {
+    "step": 2,
+    "title": "Cài đặt thông tin lĩnh vực/ dự án",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Nhập tên lĩnh vực/ dự án",
+    "description": "Tên của lĩnh vực hoặc dự án mà bạn muốn tạo (bắt buộc)",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b2.png"
+  },
+  {
+    "step": 4,
+    "title": "Nhập mô tả cho lĩnh vực hoặc dự án",
+    "description": "Mô tả ngắn gọn nội dung, mục tiêu hoặc phạm vi của dự án. Không bắt buộc nhưng nên có để dễ quản lý",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b2.png"
+  },
+  {
+    "step": 5,
+    "title": "Thêm thông tin chi tiết cho lĩnh vực hoặc dự án",
+    "description": "Cung cấp thông tin chi tiết về ngày bắt đầu, ngày kết thúc, ngân sách (nếu có).",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b2.png"
+  },
+    {
+    "step": 6,
+    "title": "Bật tắt chức năng tạo lĩnh vực/ dự án con",
+    "description": "Công tắc bật/tắt để xác định đây là một dự án con của một lĩnh vực lớn hơn. Nếu bật, bạn sẽ chọn cha của nó. Sau khi điền xong các thông tin trên, nhấn ‘tiếp theo’",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b2.png"
+  },
+  {
+    "step": 7,
+    "title": "Chọn thành viên phụ trách",
+    "description": "Người phụ trách chỉ có thể chọn các lĩnh vực mà mình được phân quyền, không thể tạo việc nằm ngoài quyền hạn.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-project-b2.5.png"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "step": 1,
+    "title": "Chọn task mà bạn muốn chia sẻ",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharesnapshots-1-2.jpeg"
+  },
+  {
+    "step": 2,
+    "title": "Ấn chọn Snapshots",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharesnapshots-1-2.jpeg"
+  },
+  {
+    "step": 3,
+    "title": "Tạo Snapshots",
+    "description":null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharesnapshots-3-4.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Nhập tên Snapshots bạn muốn tạo",
+    "description": "Màn hình sẽ hiện ra bảng nhập tên cho snapshots vừa tạo. Bạn tiến hành nhập tên và ấn “Lưu”",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharesnapshots-3-4.jpeg"
+  },
+  {
+    "step": 5,
+    "title": "Ấn vào biểu tượng sao chép để sao chép đường liên kết.",
+    "description": null,
+    "image_url": null
+  },
+  {
+    "step": 6,
+    "title": "Gửi đường liên kết đến người mà bạn muốn chia sẻ công việc.",
+    "description":null,
+    "image_url":null
+  }
+]

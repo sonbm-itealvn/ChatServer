@@ -1,0 +1,20 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để sửa đổi thông tin.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Truy cập vào phần 'Việc của tôi'",
+    "description": "Truy cập vào phần ‘việc của tôi’ tại góc trái phía trên màn hình.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work/list-work-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Danh sách công việc",
+    "description": "Tại đây, bạn sẽ thấy danh sách tất cả công việc mà bạn phải thực hiện, từ công việc mới giao đến các công việc đang chờ xử lý.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work/list-work-b3.png"
+  }
+]

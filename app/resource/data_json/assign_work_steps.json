@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro",
+    "description": null,
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Nhấn vào nút “Tạo công việc mới” màu vàng phía tay phải màn hình.",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/assign_work/assign-work-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Nhập tên công việc cụ thể, rõ ràng ",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/assign_work/assign-work-b3.png"
+  },
+  {
+    "step": 4,
+    "title": "Giao việc cho người phụ trách",
+    "description": "Tại mục người phụ trách,chọn người chọn thành viên trong tổ chức mà bạn muốn giao công việc. Fiine hiển thị danh sách thành viên đã được mời tham gia tổ chức để bạn dễ dàng lựa chọn.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/assign_work/assign-work-b4.png"
+  },
+  {
+    "step": 5,
+    "title": "Thêm thông tin chi tiết cho công việc",
+    "description": "Bạn cần điền các thông tin lĩnh vực, độ ưu tiên, sự dự kiến, hạn chót, mô tả, file đính kèm (nếu có). Sau đó ấn nút ‘Tạo’ để hoàn tất. Vậy là bạn đã tạo thành công công việc đầu tiên trên Fiine. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/assign_work/assign-work-b5.png"
+  }
+]

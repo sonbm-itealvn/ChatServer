@@ -1,0 +1,44 @@
+[
+  {
+    "step": 1,
+    "title": "Tải ảnh lên Note ",
+    "description": "Tải hình ảnh lên trên note để có thể thêm note vào trực tiếp trong ảnh",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/upload-img-to-note.jpeg"
+  },
+  {
+    "step": 2,
+    "title": "Note Text",
+    "description": "Thêm trực tiếp note bằng chữ viết hoặc vẽ lên trên ảnh đã tải lên",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/note-text.jpeg"
+  },
+  {
+    "step": 3,
+    "title": "Tạo Note Record",
+    "description": "Đặc biệt, bạn có thể note ở dạng ghi âm. Tại đây bạn có thể nghe lại giọng thu cũng như chỉnh lại tốc độ. Sử dụng ô màu để che thông tin muốn bảo mật.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/create-note-record.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Note Record",
+    "description": "Dấu hiệu của note record ở trong ảnh",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/note-record.jpeg"
+  },
+  {
+    "step": 5,
+    "title": "Quay lại bước trước của Note",
+    "description": "Nếu muốn thay đổi bạn có thể sử dụng chức năng xóa hoặc quay lại thao tác vừa thực hiện.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/undo-note.jpeg"
+  },
+  {
+    "step": 6,
+    "title": "Note in Task",
+    "description": "Khi tạo một công việc, bạn cần note lại những thông tin cần lưu ý cho chính bản thân mình hoặc truyền tải thông tin cần thiết của công việc cho người bạn muốn giao việc. Ngay trên phần tạo Task của Fiine sẽ có phần đính kèm Note.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/note-in-task.jpeg"
+  },
+  {
+    "step": 7,
+    "title": "Note in Chat",
+    "description": "Ngoài ra, trong chức năng Chat của Fiine cũng được bổ sung tính năng Note để giúp bạn thuận tiện trong việc trao đổi với đồng nghiệp. Bạn có thể mô tả rõ ý muốn của mình để đồng nghiệp hiểu rõ hơn về thông tin bạn muốn nhắn gửi.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/benefit_use_note/note-in+chat.jpeg"
+  }
+]

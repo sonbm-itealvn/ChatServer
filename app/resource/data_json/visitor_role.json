@@ -1,0 +1,38 @@
+[
+  {
+    "step": 1,
+    "title": "Cách phân quyền Visitor",
+    "description": "Tại màn hình trang chủ, ấn nút “Cài đặt”",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/visitor_role/role-visitor-1.png"
+  },
+  {
+    "step": 2,
+    "title": "Tại menu chọn 'Thành viên'",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/visitor_role/role-visitor-2-3.jpeg"
+  },
+  {
+    "step": 3,
+    "title": "Chọn thành viên mà bạn muốn phân quyền",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/visitor_role/role-visitor-2-3.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Ấn biểu tượng chỉnh sửa",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/visitor_role/role-visitor-4.jpeg"
+  },
+  {
+    "step": 5,
+    "title": "Chọn vai trò 'Khách'",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/visitor_role/role-visitor-5-6.jpeg"
+  },
+  {
+    "step": 6,
+    "title": "Ấn 'Lưu' là bạn đã hoàn thành phân quyền Visitor cho thành viên",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/visitor_role/role-visitor-5-6.jpeg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "step": 1,
+    "title": "Tại màn hình trang chủ, chọn ‘lịch’ và chọn ngày muốn tạo yêu cầu nghỉ phép/xin đến trễ/xin về sớm/xin ra ngoài trong giờ làm việc.",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/smart_schedule/event-calendar-b1.png"
+  },
+  {
+    "step": 2,
+    "title": " Thiết lập thông tin yêu cầu nghỉ phép/xin đến trễ/xin về sớm/xin ra ngoài trong giờ làm việc ",
+    "description": "Nhấp chuột vào ‘ngày nghỉ’ để mở Giao diện dùng để nhân sự gửi yêu cầu nghỉ phép hoặc nghỉ làm.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/smart_schedule/event-calendar-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Điền các thông tin cần thiết",
+    "description":"Sau điền các thông tin của yêu cầu xin nghỉ, ấn ‘lưu’ vậy là bạn tạo thành công yêu cầu nghỉ phép/xin đến trễ/xin về sớm/xin ra ngoài trong giờ làm việc Yêu cầu của bạn sẽ được hệ thống gửi admin của phòng ban, admin hệ thống và chủ sở hữu (owner).",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/smart_schedule/event-calendar-b3.png"
+  }
+]

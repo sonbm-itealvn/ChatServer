@@ -1,0 +1,20 @@
+[
+  {
+    "step": 1,
+    "title": "Chọn công việc cần lặp lại",
+    "description": "Truy cập vào mục Công việc của tôi hoặc danh sách công việc trong nhóm. Mở một công việc đã tạo sẵn mà bạn muốn thiết lập lặp lại định kỳ. Nhấn nút ba chấm dọc phía trên phải màn hình để mở menu tính năng công việc nâng cao, chọn ‘công việc định kỳ’",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/repeat_work_periodically/recurring-work-b1.png"
+  },
+  {
+    "step": 2,
+    "title": "Thiết lập lặp lại công việc",
+    "description": "Trong cửa sổ hiện ra, bạn có thể cài đặt: Tần suất lặp lại: hàng ngày, hàng tuần, hàng tháng, hàng năm. Chọn các ngày cụ thể trong tuần nếu chọn lặp lại theo tuần (ví dụ: thứ Hai, thứ Ba, thứ Năm). Đặt ngày bắt đầu và ngày kết thúc cho công việc lặp lại.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/repeat_work_periodically/recurring-work-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Lưu các cài đặt lặp lại",
+    "description": "Từ đó, công việc sẽ tự động được tạo lại theo lịch đã chọn. Bạn có thể chỉnh sửa hoặc hủy bỏ cài đặt lặp lại bất cứ lúc nào bằng cách chọn ‘nội dung lặp lại’ và thay đổi thiết lập.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/repeat_work_periodically/recurring-work-b2.1.png"
+  }
+]

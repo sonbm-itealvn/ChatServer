@@ -1,0 +1,44 @@
+[
+  {
+    "step": 1,
+    "title": "Báo cáo tổng quan dự án",
+    "description": "Chỉ số đầu tiên bạn cần nắm bắt khi đọc báo cáo tổng quan của dự án chính là số lượng việc phải làm và việc đã hoàn thành trong ngày hôm nay. Đây là một chỉ số quan trọng giúp bạn luôn theo sát dự án. Đồng thời bạn có thể cập nhập công việc theo ngày một cách hiệu quả.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/overview-project.jpeg"
+  },
+  {
+    "step": 2,
+    "title": "Báo cáo những ngày gần nhất",
+    "description": "Tiếp đến bạn sẽ có một cái nhìn tổng quan từ những gần nhất về lượng công việc của dự án đó để biết xem dự án đang bị ngưng trệ hay vẫn đang diễn ra bình thường.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/report-recent-days.png"
+  },
+  {
+    "step": 3,
+    "title": "Những thành viên tích cực",
+    "description": "Ở đây bạn có thể biết được hiệu suất làm việc hiệu quả của các thành viên có trong dự án, 3 thành viên làm việc hiệu quả nhất dự án khi sử dụng Fiine sẽ được thống kê.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/active-member.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Thông tin thành viên",
+    "description": "Ngay dưới góc bên tay phải bạn sẽ nhìn thấy số lượng thành viên đang có làm việc trong tổ chức và số nhóm có trong đó. Thêm một phần lưu ý nhỏ là dưới mỗi thành viên đều có một con số nhỏ nó biểu thị số công việc mà nhân việc này tạo ra trong dự án đó. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/info-member-in-group.jpeg"
+  },
+  {
+    "step": 5,
+    "title": "Theo dõi chi tiết công việc trên Gantt",
+    "description": "Khi bạn đang ở phần Gantt chart của dự án, ở phần công việc khi muốn xem chi tiết về nó bạn chỉ việc trỏ vào tên công việc, nó sẽ hiện ra cho bạn chi tiết công việc đó ra sao để bạn có thể xem kỹ ví dụ như phần bình luận có trong task về sự thay đổi của các thành viên có trong dự án đang trao đổi với nhau.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/follow-work-details.jpeg"
+  },
+  {
+    "step": 6,
+    "title": "Tạo công việc với quy trình",
+    "description": "Quy trình công việc hay còn gọi là Fiine workflow ( nội dung này có bài đánh giá chi tiết)",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/task-with-processes.png"
+  },
+  {
+    "step": 7,
+    "title": "Workflow in Gantt",
+    "description": "Bằng việc kết hợp giữa Fiine Workflow và sơ đồ Gantt Fiine sẽ giúp bạn có nhìn một cái nhìn trực quan nhất về những công việc ở trong quy trình, dự án.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/project_management/workflow-with-gantt.jpeg"
+  }
+]

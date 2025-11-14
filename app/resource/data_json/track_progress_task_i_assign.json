@@ -1,0 +1,14 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để sửa đổi thông tin.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Truy cập vào phần việc của tôi",
+    "description": "Tại đây, bạn sẽ thấy danh sách tất cả các công việc mà bạn đã giao cho các thành viên trong nhóm hoặc đội nhóm. Fiine cung cấp khả năng theo dõi các công việc mà bạn đã giao đi theo thời gian thực. Bạn có thể lọc và sắp xếp các công việc theo trạng thái",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/track_progress_task_i_assign/track-progress-b2.png"
+  }
+]

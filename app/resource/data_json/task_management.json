@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Cách hiện ra thanh Task.",
+    "description": "Có 2 cách để có thể hiện ra thanh task:\n Cách 1: Bạn cí thể chọn mục task màu cam đứng ở bất kỳ màn hình nào của Fiine.\n Cách 2: Ấn lệch Ctrl + J để hiện ra mục tạo Task luôn",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/task_management/create-task-1.png"
+  },
+  {
+    "step": 2,
+    "title": "Điền tên công việc",
+    "description": "Sau khi điền xong tên công việc, những yêu cầu khác của task công việc sẽ hiện lên.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/task_management/create-task-2.jpeg"
+  },
+  {
+    "step": 3,
+    "title": "Điền những yêu cầu khác của Task công việc",
+    "description": "• Phụ trách công việc: Nhóm phụ trách hoặc người phụ trách và thêm những người liên quan\n • Chọn lĩnh vực/ dự án: Công việc chung,…..\n • Độ ưu tiên: cần gấp và quan trọng, cần gấp, quan trọng và thoải mái\n • Dự kiến: chọn thời gian để hoàn thành công việc, tiếp đến là chọn hạn chót cho công việc.\n • Mô tả chi tiết công việc: Dạng file đính kèm sẽ có 4 dạng. Tệp file, tính năng note, ghi âm và tạo check list ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/task_management/create-task-2.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Kiểm tra thông tin của Task",
+    "description": "Sau khi tạo xong bạn có thể xem lại thông tin bạn vừa tạo và sửa đổi những thông tin bị sai hoặc chưa có",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/task_management/info-task.png"
+  },
+  {
+    "step": 5,
+    "title": "Quản lý Task trên Fiine",
+    "description": "Có 2 phần đó là:\n Việc của tôi: Là việc cá nhân bạn tự tạo cho bản thân hoặc việc được người khác giao cho mình.\n Việc tôi giao: Đây là phần việc tôi giao cho người khác",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/task_management/task-management.png"
+  }
+]

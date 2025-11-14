@@ -1,0 +1,20 @@
+[
+  {
+    "step": 1,
+    "title": "Tạo Task",
+    "description": ": Hãy chọn vào mục Tạo task để tạo công việc lớn. Sau đó, chọn người phụ trách, lĩnh vực ưu tiên, hạn chót cho công việc, mô tả,… ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/checklist/create-checklist-1-2.png"
+  },
+  {
+    "step": 2,
+    "title": "Tạo danh sách công việc",
+    "description": ": Chọn thêm danh sách công việc tại phần File đính kèm để thêm danh sách tất cả các công việc con cần thực hiện. Bạn có thể đổi tên danh sách, ví dụ như “Các công việc cần làm”",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/checklist/create-checklist-1-2.png"
+  },
+  {
+    "step": 3,
+    "title": "Thêm danh sách công việc mới",
+    "description": "Nếu có thêm các danh sách khác, thì bạn hãy liệt kê ra tại danh sách mới. Bạn hãy chọn “Thêm danh sách” để tạo danh sách mới và đổi tên theo nhu cầu. Sau khi hoàn tất việc tạo checklist bạn hãy chọn ‘Tạo’ để thêm công việc.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/checklist/create-checklist-3.jpeg"
+  }
+]

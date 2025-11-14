@@ -1,0 +1,8 @@
+[
+    {
+    "step": 1,
+    "title": "Admin tổ chức và Owner (chủ sở hữu) có quyền xem thông tin về các nhóm trong tổ chức.Tại trang chủ, truy cập vào phần “Cài đặt” góc trái phía dưới cùng màn hình. Sau đó, tại thanh menu bên trái chọn “Nhóm”.",
+    "description":"Tại đây bạn sẽ thấy danh sách tất cả các nhóm có trong tổ chức của mình. Bao gồm:\n - Tên nhóm: Hiển thị danh sách nhóm đã tạo\n- Trạng thái: Nhóm có thể là Riêng tư hoặc Công khai.\n - Thành viên: Xem được ai đang tham gia nhóm.\n - Mô tả: Tóm tắt chức năng hoặc mục tiêu của nhóm.\n - Ngày tạo: Biết thời gian nhóm được tạo.\n - Bạn có thể nhấn vào tên nhóm để bảng bảng thông tin chi tiết của nhóm. Tại đây nếu là admin nhóm, bạn có thể chỉnh sửa thông tin nhóm; Thêm hoặc xoá thành viên; Đổi trạng thái nhóm; Xoá nhóm.\n Ngoài ra bạn có thể:\n - Tạo nhóm mới: Nút tạo nhóm ở góc trên bên phải cho phép tạo một nhóm mới từ đầu.\n - Tìm kiếm nhóm: Thanh tìm kiếm với nhãn ‘Tên nhóm…’ giúp lọc nhóm nhanh chóng theo tên.\n - Bộ lọc trạng thái: Tổng số, Riêng tư, Công khai giúp người dùng lọc nhóm theo chế độ hiển thị.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/info_group/info-group.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để tạo nhóm mới trên Fiine.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Tại trang chủ các bạn chọn “Nhóm của tôi”.",
+    "description": "Tại đây, bạn sẽ thấy danh sách tất cả các nhóm mà bạn tham gia hoặc quản lý.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Tạo nhóm mới",
+    "description": " Để tạo nhóm, bạn ấn vào nút màu xanh lá chứa dấu cộng góc phải phía trên màn hình. Bất kỳ ai trong tổ chức đều có thể tạo nhóm",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b3.png"
+  },
+  {
+    "step": 4,
+    "title": "Chọn Avatar nhóm",
+    "description": "Tạo dấu ấn riêng cho nhóm, giúp phân biệt với các nhóm khác.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b4.png"
+  },
+  {
+    "step": 5,
+    "title": "Đặt tên nhóm",
+    "description": "Tên nhóm giúp các thành viên và người quản lý dễ dàng phân biệt nhóm này với các nhóm khác trong tổ chức. Bạn nên chọn một tên ngắn gọn, dễ nhớ và phản ánh đúng chức năng hoặc dự án mà nhóm đang thực hiện.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b4.png"
+  },
+    {
+    "step": 6,
+    "title": "Mô tả nhóm.",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b4.png"
+  },
+  {
+    "step": 7,
+    "title": "Bật tắt chế độ riêng tư",
+    "description": "Tại Fiine, nhóm có thể công khai công việc hoặc không. Dù công việc nhóm có được cài đặt là riêng tư hay không, tất cả tin nhắn trong nhóm sẽ luôn được giữ riêng tư.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b4.png"
+  },
+  {
+    "step": 8,
+    "title": "Chọn lĩnh vực có liên quan đến nhóm",
+    "description": "Lĩnh vực là phần quan trọng để phân loại nhóm theo loại công việc hoặc dự án mà nhóm đang thực hiện. Cài đặt lĩnh vực giúp bạn dễ dàng tổ chức các nhóm trong các dự án hoặc mảng công việc cụ thể. Điều này giúp nhóm có thể hoạt động hiệu quả trong các phạm vi công việc được phân chia rõ ràng.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b4.5.png"
+  },
+  {
+    "step": 9,
+    "title": "Chọn thành viên tham gia nhóm",
+    "description": "Việc thêm thành viên giúp xây dựng đội ngũ tham gia vào nhóm để thực hiện công việc chung. Admin là những người có quyền quản lý nhóm, phân công công việc, thay đổi thông tin nhóm và quyền hạn của các thành viên. Một nhóm có thể có nhiều admin để phân chia quyền lực và đảm bảo quản lý nhóm hiệu quả.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_and_distinguish_group_fields/create-group-b4.6.png"
+  }
+]

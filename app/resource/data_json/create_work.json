@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại 'https://fiine.pro'",
+    "description": null,
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Tạo công việc mới",
+    "description": " Nhấn vào nút “Tạo công việc mới” màu vàng phía tay phải màn hình.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_work/create-work-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Nhập tên công việc cụ thể, rõ ràng",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_work/create-work-b3.png"
+  },
+  {
+    "step": 4,
+    "title": "Thêm thông tin chi tiết về công việc",
+    "description": "Bạn cần điền các thông tin lĩnh vực, độ ưu tiên, sự dự kiến, hạn chót, mô tả, file đính kèm (nếu có). Sau đó ấn nút ‘Tạo’ để hoàn tất. Vậy là bạn đã tạo thành công công việc đầu tiên trên Fiine. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_work/create-work-b4.png"
+  }
+]

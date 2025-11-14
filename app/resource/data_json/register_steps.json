@@ -1,0 +1,44 @@
+[
+  {
+    "step": 1,
+    "title": "Truy cập Fiine và chọn mục đăng ký",
+    "description": "Truy cập trang web hoặc mở ứng dụng Fiine trên thiết bị.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b1-create.png"
+  },
+  {
+    "step": 2,
+    "title": "Điền thông tin đăng ký",
+    "description": "Điền thông tin yêu cầu của các mục.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b2-create.png"
+  },
+  {
+    "step": 3,
+    "title": "Nhập mã OTP được gửi đến mail/số điện thoại đã đăng ký",
+    "description": "Nhập mã OTP được gửi đến email hoặc số điện thoại đã đăng ký.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b3-create.png"
+  },
+  {
+    "step": 4,
+    "title": "Nhập email và đặt mật khẩu cho tài khoản",
+    "description": "Xác nhận đăng ký bằng cách nhập email và đặt mật khẩu cho tài khoản.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b4-create.png"
+  },
+  {
+    "step": 5,
+    "title": "Tạo không gian làm việc cho doanh nghiệp/đội nhóm",
+    "description": "Điền tên doanh nghiệp và quy mô nhân sự để tạo không gian làm việc.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b5-create.png"
+  },
+  {
+    "step": 6,
+    "title": "Điền thông tin lĩnh vực kinh doanh",
+    "description": "Điền thông tin lĩnh vực kinh doanh của doanh nghiệp.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b6-create.png"
+  },
+  {
+    "step": 7,
+    "title": "Lựa chọn gói dịch vụ phù hợp",
+    "description": "Chọn gói dịch vụ phù hợp với nhu cầu của doanh nghiệp.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/register/b7-create.png"
+  }
+]

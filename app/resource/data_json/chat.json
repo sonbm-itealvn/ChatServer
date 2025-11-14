@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "title": "Tính năng chat trong Fiine ",
+    "description": "Sự hợp nhất là một level cao hơn hẳn so với tích hợp. Hợp nhất sẽ tạo sự thông suốt liền mạch trong làm việc. Tạo cảm giác dễ chịu & nâng cao hiệu quả. Nhân sự có thể chuyển đổi cực kỳ tự nhiên và linh hoạt giữa nhắn tin, trao đổi và công việc.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/chat/chat-in-fiine.jpeg"
+  },
+  {
+    "step": 2,
+    "title": "Tiện ích trong Chat",
+    "description": "Chat trên Fiine được xây dựng với đầy đủ các tính năng để thuận tiện trong việc trao đổi văn bản.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/chat/utilities-in-chat.png"
+  },
+  {
+    "step": 3,
+    "title": "Ghi chú trong Chat",
+    "description": "Note không chỉ dùng để ghi nhớ thông tin quan trọng mà còn dùng để truyền tải những thông điệp, suy nghĩ của bạn cho người khác. Thấu hiểu được điều này, Fiine đã phát triển tính năng note. Note giúp bạn có thể truyền đạt thông tin một cách nhanh chóng và thuận tiện nhất.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/chat/note-in-chat.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Thêm công việc mới trong Chat",
+    "description": "Người dùng hoàn toàn có thể tạo công việc từ một tin nhắn ngày trong đoạn chat riêng hay nhóm. Việc này hạn chế việc quên việc, trôi thông tin.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/chat/create-task-from-chat.png"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để sửa đổi thông tin.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Truy cập vào phần thông tin cá nhân",
+    "description": "Truy cập vào phần ‘thông tin cá nhân’ tại biểu tượng ba chấm dọc góc trái phía trên màn hình.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/update_info/update-ps-info-b1.png"
+  },
+  {
+    "step": 3,
+    "title": "Thay ảnh đại diện",
+    "description": "Tại màn hình thông tin cá nhân, Nhấn vào biểu tượng ảnh đại diện hiện tại. Chọn hình ảnh đại diện từ thiết bị của bạn, đảm bảo ảnh rõ nét, chuyên nghiệp.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/update_info/update-ps-info-b2.png"
+  },
+  {
+    "step": 4,
+    "title": "Chú ý về ảnh đại diện",
+    "description": "Ảnh đại diện là hình ảnh đại diện cho bạn trên nền tảng Fiine, giúp đồng nghiệp và đối tác nhận biết bạn nhanh chóng trong các hoạt động như chat, giao việc, họp trực tuyến. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/update_info/update-ps-info-note.png"
+  },
+  {
+    "step": 5,
+    "title": "Cập nhập thông tin cá nhân",
+    "description": "Thông tin cá nhân bao gồm các dữ liệu như tên, số điện thoại, mật khẩu tài khoản Fiine, email, ngày sinh, địa chỉ.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/update_info/update-ps-info-b3.png"
+  }
+]

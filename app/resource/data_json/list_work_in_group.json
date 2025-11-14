@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để sửa đổi thông tin.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Truy cập vào phần 'Nhóm của tôi'",
+    "description": "Tại màn hình trang chủ, truy cập vào phần ‘nhóm của tôi’. Tại đây bạn có thể tìm kiếm nhóm bằng cách nhập tên nhóm vào ô tìm kiếm.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work_in_group/list-work-in+group-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Chọn vào nhóm mà bạn cần xem danh sách công việc",
+    "description": "Nhấp chuột vào tên nhóm để mở bảng thông tin chi tiết công việc nhóm đó. Tại đây, bạn sẽ thấy danh sách tất cả công việc của nhóm, xem tiến độ và kế hoạch các công việc của nhóm.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work_in_group/select_work.png"
+  },
+  {
+    "step": 4,
+    "title": "Lọc và sắp xếp công việc",
+    "description": "Truy cập vào phần ‘việc của tôi’ tại góc trái phía trên màn hình.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work/list-work-b2.png"
+  },
+  {
+    "step": 5,
+    "title": "Xem chi tiết công việc",
+    "description": "Tại đây, bạn sẽ thấy danh sách tất cả công việc mà bạn phải thực hiện, từ công việc mới giao đến các công việc đang chờ xử lý.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work/list-work-b3.png"
+  }
+]

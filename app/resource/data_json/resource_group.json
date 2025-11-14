@@ -1,0 +1,38 @@
+[
+  {
+    "step": 1,
+    "title": "Truy cập vào 'Nhóm của tôi'",
+    "description": "Tại khung nhóm mà bạn muốn xem tài nguyên, nhấn tên nhóm để mở bảng thông tin chi tiết nhóm.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/resource_group/resources-group-b1.png"
+  },
+  {
+    "step": 2,
+    "title": "Chọn mục 'Tài nguyên'",
+    "description": "Sau khi bảng thông tin chi tiết nhóm mở, nhấn chọn ‘Tài nguyên’. Tại đây, người dùng có thể xem tất cả tài nguyên của nhóm đang có trong mục: Kho lưu trữ; Công việc; Tin nhắn; Được chia sẻ.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/resource_group/resources-group-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Tạo kho lưu trữ",
+    "description": "Là nơi tập trung tất cả các tài liệu, file hoặc dữ liệu quan trọng mà bạn muốn chia sẻ với tất cả các thành viên trong nhóm. Đây là một không gian chung để các thành viên có thể dễ dàng truy cập và sử dụng tài liệu, hình ảnh, video hoặc bất kỳ thông tin nào liên quan đến công việc của nhóm. Việc lưu trữ tài liệu ở đây giúp nhóm dễ dàng quản lý và tránh mất mát dữ liệu quan trọng.",
+    "image_url": null
+  },
+  {
+    "step": 4,
+    "title": "Mục công việc",
+    "description": "Là nơi lưu trữ tất cả các file đính kèm liên quan đến các công việc của nhóm. Khi bạn tạo hoặc giao một công việc cho nhóm, các tài liệu như báo cáo, bảng tính, hình ảnh hoặc các file hỗ trợ khác có thể được đính kèm vào công việc đó. Điều này giúp các thành viên trong nhóm dễ dàng truy cập tài liệu liên quan trực tiếp đến nhiệm vụ họ đang thực hiện mà không phải tìm kiếm ngoài ứng dụng.",
+    "image_url": null
+  },
+  {
+    "step": 5,
+    "title": "Mục tin nhắn lưu trữ",
+    "description": "Tất cả các file đính kèm trong các cuộc trò chuyện hoặc chat nhóm. Đây là nơi giúp bạn và các thành viên trong nhóm chia sẻ tài liệu, hình ảnh, video, liên kết và bất kỳ thông tin nào thông qua cuộc trò chuyện. Tính năng này đảm bảo rằng các tài liệu cần thiết cho công việc của nhóm không bị mất đi và mọi thành viên đều có thể truy cập khi cần.",
+    "image_url":null
+  },
+  {
+    "step": 6,
+    "title": "Mục được chia sẻ",
+    "description": " Là nơi nhận các tài nguyên được chia sẻ từ mục tài nguyên cá nhân của các thành viên hoặc tài nguyên của các nhóm khác.",
+    "image_url":null
+  }
+]

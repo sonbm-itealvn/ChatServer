@@ -1,0 +1,38 @@
+[
+  {
+    "step": 1,
+    "title": "Tạo mới quy trình công việc",
+    "description": "Truy cập phần Cài đặt ở góc dưới cùng bên trái giao diện Fiine. Tại mục Công việc, chọn ‘Quy trình công việc’, tại đây bạn có thể tạo mới một quy trình hoặc chỉnh sửa quy trình có sẵn.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/work_process/workflow-b1.png"
+  },
+  {
+    "step": 2,
+    "title": "Thiết lập nhánh và điều kiện",
+    "description": "Bạn có thể tạo các nhánh trong quy trình, ví dụ nhánh thành công sẽ đi sang bước gửi báo giá, nhánh thất bại sẽ quay lại làm rõ nhu cầu. Double click vào các mũi tên để đặt điều kiện cho từng nhánh, giúp quy trình linh hoạt theo tình huống thực tế.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/work_process/workflow-b3.png"
+  },
+  {
+    "step": 3,
+    "title": "Gắn người phụ trách và thông tin cho từng bước",
+    "description": "Mỗi bước trong quy trình có thể được gán người phụ trách, dự án liên quan, hạn chót và mức độ ưu tiên. Các thông tin này giúp kiểm soát tiến độ và trách nhiệm rõ ràng trong từng giai đoạn.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/work_process/workflow-b3.png"
+  },
+  {
+    "step": 4,
+    "title": "Áp dụng quy trình vào công việc",
+    "description": "Khi tạo công việc mới, bạn có thể gắn công việc đó vào một quy trình đã thiết lập để công việc này tự động đi theo các bước trong quy trình. Bạn cũng có thể gắn quy trình cho các công việc đã có sẵn để quản lý tiến trình",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/work_process/workflow-b4.png"
+  },
+  {
+    "step": 5,
+    "title": "Theo dõi tiến độ quy trình",
+    "description": " Để bật màn hình báo cáo quy trình công việc, truy cập phần Cài đặt ở góc dưới cùng bên trái giao diện Fiine, chọn ‘cài đặt’ -> ‘cài đặt cá nhân’ -> Bật menu ‘Hiển thị/ẩn menu quy trình.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/work_process/workflow-b5.png"
+  },
+  {
+    "step": 6,
+    "title": "Xem công việc ứng với quy trình",
+    "description": " Sau đó, tại trang chủ, trong menu Quy trình công việc, bạn có thể xem các công việc đang ở bước nào của quy trình dưới dạng cột hoặc danh sách. Hệ thống tự động cập nhật trạng thái khi công việc được chuyển bước hoặc hoàn thành, giúp bạn dễ dàng phát hiện các bước bị tắc nghẽn.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/work_process/workflow-b6.png"
+  }
+]

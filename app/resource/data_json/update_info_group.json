@@ -1,0 +1,20 @@
+[
+  {
+    "step": 1,
+    "title": "Truy cập ‘Nhóm của tôi’, tại khung nhóm mà bạn muốn chỉnh sửa thông tin, nhấn nút ba chấm dọc góc trên phải, chọn “cài đặt”.",
+    "description":"Admin nhóm mới có quyền chỉnh sửa thông tin nhóm",
+    "image_url": ""
+  },
+  {
+    "step": 2,
+    "title": "Chọn thông tin mà bạn muốn chỉnh sửa",
+    "description": "- Đổi tên/mô tả nhóm/Đổi ảnh đại diện;\n - Thêm/xóa thành viên. Cài đặt admin cho nhóm;\n - Thêm/xóa lĩnh vực/dự án cho nhóm;\n - Cài đặt thông báo nhóm;\n - Cài đặt quyền riêng tư nhóm: nhóm là nhóm công khai hay riêng tư;\n - Cài đặt giới hạn quyền nhắn tin trong nhóm: Ai là người được gửi tin nhắn vào nhóm? Tất cả mọi người trong nhóm hay chỉ admin nhóm;\n - Xóa nhóm.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/update_info_group/update-group-b1.png"
+  },
+  {
+    "step": 3,
+    "title": "Sau đó ấn lưu để lưu lại các cài đặt. Vậy là bạn đã chỉnh sửa thông tin nhóm thành công.",
+    "description": null,
+    "image_url": null 
+  }
+]

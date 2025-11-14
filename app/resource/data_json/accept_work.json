@@ -1,0 +1,14 @@
+[
+  {
+    "step": 1,
+    "title": "Chọn công việc cần phê duyệt",
+    "description": "Truy cập vào mục Công việc của tôi hoặc danh sách công việc trong nhóm. Mở một công việc đã tạo sẵn mà bạn muốn thiết lập phê duyệt. Nhấn nút ba chấm dọc phía trên phải màn hình để mở menu tính năng công việc nâng cao, chọn ‘mở phê duyệt’.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/accept_work/job-approval-b1.png"
+  },
+  {
+    "step": 2,
+    "title": "Chọn người phê duyệt và lưu thông tin",
+    "description": "Sau đó, công việc xuất hiện nút trạng thái ‘yêu cầu phê duyệt’; khi nhấn vào nút này, công việc sẽ được gửi đến người phê duyệt để họ xem xét. Người phê duyệt nhận được thông báo và có thể duyệt hoặc từ chối công việc kèm theo nhận xét.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/accept_work/job-approval-b2.png"
+  }
+]

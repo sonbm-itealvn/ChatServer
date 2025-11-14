@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Chọn task mà bạn muốn chia sẻ, sau đó ấn vào biểu tượng chia sẻ.",
+    "description": null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharelink-1.png"
+  },
+  {
+    "step": 2,
+    "title": "Phân quyền công việc",
+    "description": "Sau khi ấn vào biểu tượng chia sẻ, màn hình hiển thị bảng phân quyền. Tại đây bạn hãy chọn phân quyền phù hợp với người được chia sẻ.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharelink-2-3.jpeg"
+  },
+  {
+    "step": 3,
+    "title": "Ấn nút chia sẻ",
+    "description":null,
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharelink-2-3.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Copy link ",
+    "description": "Sau khi ấn nút chia sẻ, màn hình sẽ hiện ra đường link. Hãy copy đường link và gửi tới những người bạn muốn chia sẻ.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharelink-4.jpeg"
+  },
+  {
+    "step": 5,
+    "title": "Quản lý công việc đã được chia sẻ",
+    "description": " Người quản lý có thể dễ dàng theo dõi sát sao những công việc nào được chia sẻ ra ngoài trong danh sách công việc chia sẻ. Cũng có thể tạm dừng hoặc xóa khi không muốn chia sẻ công việc đó nữa",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/share_work/sharelink-5.jpeg"
+  }
+]

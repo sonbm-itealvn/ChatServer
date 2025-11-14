@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại 'https://fiine.pro'",
+    "description": null,
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Truy cập vào phần 'Việc của tôi'",
+    "description": " Truy cập vào phần ‘việc của tôi’ tại góc trái phía trên màn hình. Sau đó chọn ‘việc cần phê duyệt’. Tại đây, bạn sẽ thấy danh sách tất cả các công việc hoặc yêu cầu cần được bạn phê duyệt trước khi thực hiện",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work_approval/list-work-approval-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Xem chi tiết công việc cần phê duyệt",
+    "description": "Bạn cần xem mô tả, tài liệu đính kèm, người yêu cầu phê duyệt và lý do cần phê duyệt. Điều này giúp bạn hiểu rõ các yếu tố cần thiết trước khi đưa ra quyết định phê duyệt",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work_approval/list-work-approval-b2.png"
+  },
+  {
+    "step": 4,
+    "title": "Phê duyệt hoặc từ chối công việc",
+    "description": "Sau khi xem xét công việc, bạn có thể chọn Phê duyệt hoặc Từ chối công việc. Nếu bạn phê duyệt, công việc sẽ được chuyển sang trạng thái Đã phê duyệt và có thể tiếp tục triển khai. Nếu từ chối, bạn có thể đưa ra lý do và công việc sẽ bị đình chỉ.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/list_work_approval/list-work-approval-b4.png"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để xem thông báo về cập nhập công việc.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Nhấn vào biểu tượng quả chuông để mở khung thông báo",
+    "description": "Tại đây, bạn sẽ thấy danh sách tất cả các thông báo liên quan đến công việc mà bạn tham gia.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/notice_update_work/notice-b2.png"
+  }
+]

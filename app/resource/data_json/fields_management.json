@@ -1,0 +1,14 @@
+[
+    {
+        "step": 1,
+        "title": "Truy cập vào Lĩnh vực/ dự án",
+        "description":"Màn hình này cho phép người dùng quản lý toàn bộ các lĩnh vực và dự án đang có trong tổ chức, giúp phân loại, theo dõi, và tổ chức công việc theo từng nhóm nội dung cụ thể. Lưu ý: Chỉ Chủ sở hữu (Owner) và Quản trị viên của tài khoản tổ chức (Admin) có thể truy cập vào không gian này",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/fields_management/fields-management.png"
+    },
+    {
+        "step": 2,
+        "title": "Các chức năng có thể xem",
+        "description":"Tại đây, bạn có thể:\n - Tìm kiếm theo tên lĩnh vực/dự án: Dễ dàng lọc nhanh các dự án đang có.\n - Bộ lọc hiển thị: Chọn hiển thị Tất cả, Hiển thị, hoặc Không hiển thị.\n - Xem theo tab: Cho phép chuyển đổi cách xem theo Lĩnh vực, Thành viên, hoặc Nhóm.\n - Tạo mới lĩnh vực/dự án: Nút “Tạo mới lĩnh vực/dự án” ở góc trên bên phải cho phép người dùng khởi tạo một dự án/lĩnh vực mới để tổ chức công việc.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/fields_management/fields-management.png"
+    }
+]

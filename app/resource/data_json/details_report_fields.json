@@ -1,0 +1,26 @@
+[
+  {
+    "step": 1,
+    "title": "Cài đặt hiển thị cho lĩnh vực dự án",
+    "description": " Để bật màn hình báo cáo quy vực/dự án, truy cập phần Cài đặt ở góc dưới cùng bên trái giao diện Fiine, chọn ‘cài đặt’ -> ‘cài đặt cá nhân’ -> Bật menu ‘Hiển thị/ẩn menu vực/dự án’. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/details_report_fields/details-report-b1.png"
+  },
+  {
+    "step": 2,
+    "title": "Xem báo cáo chi tiết của lĩnh vực/ dự án ",
+    "description": "Để xem báo cáo chi tiết của lĩnh vực/dự án bất kì, tại màn hình trang chủ chọn ‘lĩnh vực, dự án’ tại đây người dùng sẽ thấy khung thông tin về các lĩnh vực/dự án họ phụ trách.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/details_report_fields/details-report-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Chọn lĩnh vực dự án",
+    "description": "Chọn Lĩnh vực/dự án muốn xem bằng cách nhấn vào tên lĩnh vực/dự án đó để mở ra bảng thông tin công việc chi tiết của lĩnh vực. Đây là nơi người dùng theo dõi, lọc và quản lý toàn bộ công việc mà họ có quyền xem thuộc lĩnh vực/dự án mà họ đang được phân công phụ trách.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/details_report_fields/details-report-b3.png"
+  },
+  {
+    "step": 4,
+    "title": "Xem báo cáo dưới dạng biểu đồ",
+    "description": "Nhấp chuột vào nút ‘Quản lý’ để xem báo cáo lĩnh vực, dự án bằng biểu đồ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/details_report_fields/detail-report-b3.1.png"
+  }
+]

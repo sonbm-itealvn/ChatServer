@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Sơ đồ Gantt trên Fiine.",
+    "description": "Gantt chart được sử dụng rộng rãi trong quản lý dự án. Chúng rất hữu ích trong việc lập kế hoạch, xác định trình tự các nhiệm vụ cần hoàn thành. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_use_gantt_chart/gantt-in-fiine.png"
+  },
+  {
+    "step": 2,
+    "title": "Quản lý thông tin công việc",
+    "description": "Dù trình bày đơn giản nhưng sơ đồ Gantt vẫn giúp bạn nắm bắt được thông tin cần thiết của một dự án. Thông qua các thanh ngang bạn sẽ nắm bắt được thời lượng, thời điểm bắt đầu, kết thúc của mỗi công việc. Còn trục dọc sẽ cho bạn biết trạng thái, người phụ trách công việc là ai.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_use_gantt_chart/info-in-gantt.png"
+  },
+  {
+    "step": 3,
+    "title": "Tạo dự án lĩnh vực cho tổ chức",
+    "description": "Hiện tại, sơ đồ Gantt chỉ sử dụng để quản lý công việc theo dự án. Do đó, để sử dụng sơ đồ Gantt bạn cần phải tạo dự án, lĩnh vực cho tổ chức.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_use_gantt_chart/create-gantt-1.png"
+  },
+  {
+    "step": 4,
+    "title": "Tạo công việc",
+    "description": "Sau khi tạo xong dự án/lĩnh vực, bạn hãy tạo các công việc mới theo kế hoạch, dự định. Khi tạo, bạn hãy chọn lĩnh vực cho công việc đó. Việc này sẽ giúp bạn phân loại và quản lý công việc hiệu quả",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_use_gantt_chart/create-gantt-2.png"
+  },
+  {
+    "step": 5,
+    "title": "Cập nhật tiến độ công việc dựa trên sơ đồ Gantt",
+    "description": " Bạn có thể thông qua sơ đồ Gantt để cập nhật thông tin về các công việc. Ngoài ra, bạn có thể trực tiếp điều chỉnh thời gian của công việc ở thanh ngang.\n Ngoài ra, sơ đồ Gantt trên Fiine còn giúp bạn nắm bắt được xem ai là người phụ trách công việc. Bạn cũng có thể nhanh chóng cập nhật trạng thái, độ ưu tiên của công việc.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/create_use_gantt_chart/create-gantt-3.png"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "step": 1,
+    "title": "Người quản lý nhận thông báo yêu cầu trên Fiine",
+    "description": "Xem chi tiết yêu cầu, có thể trao đổi thêm qua chức năng chat tích hợp nếu cần làm rõ thông tin. Chọn Đồng ý hoặc Từ chối yêu cầu, kèm theo ghi chú nếu cần. Hệ thống tự động cập nhật trạng thái và thông báo kết quả cho nhân viên.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/smart_schedule/event-calendar-approval-b1.png"
+  }
+]

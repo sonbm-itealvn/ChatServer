@@ -1,0 +1,50 @@
+[
+  {
+    "step": 1,
+    "title": "Bắt đầu ngày làm việc",
+    "description": "Bạn có thể bắt đầu tính thời gian làm việc của 1 ngày bằng cách nhấn vào nút ‘Bắt đầu làm việc’.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/start-working-day.jpeg"
+  },
+  {
+    "step": 2,
+    "title": "Chọn công việc cần làm trong ngày",
+    "description": "Tại đây bạn có thể xem được số lượng công việc hiện tại của mình, số lượng công việc đã hoàn thành ngày hôm trước và số lượng công việc đang trong trạng thái quá hạn hoàn thành. Từ đó bạn sẽ có cái nhìn bao quát hơn về khối lượng công việc của bản thân và cơ bản xác định được bản thân cần hoàn thành công việc gì vào ngày hôm nay.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/select-work.png"
+  },
+  {
+    "step": 3,
+    "title": "Lên kế hoạch công việc",
+    "description": "Danh sách công việc của bạn sẽ được hiển thị và sắp xếp theo trạng thái và mức độ ưu tiên.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/plan-working-day.jpeg"
+  },
+  {
+    "step": 4,
+    "title": "Trạng thái công việc",
+    "description": "Trên Fiine có 9 trạng thái công việc:\n 1. Đã tạo: Những công việc được tạo nhưng có kế hoạch cho công việc này\n 2. Sẽ làm: Những công việc bạn chắc chắn sẽ làm nhưng chưa làm trong hôm nay.\n 3. Đang tiến hành: Những công việc đang trong quá trình làm, cần thời gian tìm hiểu…\n 4. Hoàn thành: Những công việc đã hoàn thành. \n5. Đang chờ: Những công việc đang chờ được duyệt, hoặc chờ có thời gian làm.\n 6. Nháp: Những công việc được tạo nháp. \n 7. Trùng lặp: Những công việc được tạo nhưng trùng với công việc khác.\n 8. Đã lưu trữ: Những công việc cần lưu trữ lại.\n 9. Đã hủy: Những công việc không làm và muốn hủy bỏ. ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/status-work.jpeg"
+  },
+  {
+    "step": 5,
+    "title": "Mức độ ưu tiên của công việc",
+    "description": "Trên Fiine có 4 mức độ ưu tiên công việc:\n 1. Cần gấp và Quan trọng: Những công việc cần hoàn thành gấp và quan trọng, cần ưu tiên làm trước.\n 2. Cần gấp: Những công việc cần gấp nhưng không quan trọng, có thể ưu tiên làm khi có thời gian.\n 3. Quan trọng: Những công việc quan trọng nhưng chưa cần gấp, có thể sắp xếp thời gian hoàn thành sau.\n 4. Thoải mái: Những công việc không có yêu cầu về thời gian, có thể hoàn thành bất cứ lúc nào.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/priority-level-task.jpeg"
+  },
+  {
+    "step": 6,
+    "title": "Cài đặt điều kiện bắt đầu làm việc",
+    "description": "Truy cập màn hình Đặt điều kiện cho phép ‘bắt đầu làm việc’ bằng cách: Tại màn hình trang chủ chọn ‘cài đặt’ -> ‘cài đặt’ -> ‘bắt đầu làm việc có điều kiện’ -> bật menu ‘Đặt điều kiện cho phép ‘bắt đầu làm việc’.",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/setting-start-work-b1.png"
+  },
+  {
+    "step": 7,
+    "title": "Các giới hạn có thể cho điều kiện bắt đầu làm việc",
+    "description": "Tại đây người dùng có thể cài đặt chi tiết về địa chỉ hoặc địa chỉ IP cho phép được ‘bắt đầu làm việc’ ",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/setting-start-work-b2.png"
+  },
+  {
+    "step": 8,
+    "title": "Xuất file chấm công",
+    "description": "Admin tổ chức và chủ sở hữu có thể xuất file chấm công. Tại màn hình trang chủ chọn ‘cài đặt’ -> ‘thời gian làm việc’ -> ‘xuất file chấm công’",
+    "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/plan_for_working_day/export-timekeeping-file.png"
+  }
+]

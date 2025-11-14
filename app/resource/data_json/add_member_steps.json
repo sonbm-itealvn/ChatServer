@@ -1,0 +1,174 @@
+{
+  "web": {
+    "số điện thoại": [
+      {
+        "step": 1,
+        "title": "Tại màn hình trang chủ, ấn vào nút “Thêm thành viên”.",
+        "description":"Truy cập màn hình quản lý thành viên trên Fiine để mời thành viên vào trong không gian làm việc của tổ chức trên Fiine.\n Chọn “Cài đặt” -> “Thành viên” -> “Thêm thành viên”",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b1.png"
+      },
+      {
+        "step": 2,
+        "title": "Nhập số điện thoại và nhấn Gửi",
+        "description": "Nhập số điện thoại của các thành viên mà bạn muốn thêm vào tổ chức. Ấn “Enter” để có thể thêm nhiều số điện thoại.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b2.png"
+      },
+      {
+        "step": 3,
+        "title": "Ấn nút 'Gửi lời mời'",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/phone-pc-2-3.jpeg"
+      },
+      {
+        "step": 4,
+        "title": "Nhận tin nhắn thông qua SMS",
+        "description": "Hệ thống sẽ gửi lời mời kèm đường link tham gia Fiine qua tin nhắn SMS đến những số điện thoại này. Liên hệ với những người được mời và báo họ tham gia vào tổ chức.",
+        "image_url": null
+      }
+    ],
+    "email": [ 
+      {
+        "step": 1,
+        "title": "Thêm thành viên",
+        "description": "Tại màn hình trang chủ, ấn vào nút “Thêm thành viên”.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b1.png"
+      },
+      {
+        "step": 2,
+        "title": "Nhập địa chỉ email",
+        "description": " Nhập địa chỉ email của các thành viên mà bạn muốn thêm vào tổ chức. Ấn “Enter” để thêm nhiều địa chỉ email.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b3.png"
+      },
+      {
+        "step": 3,
+        "title": "Nhấn nút 'Gửi lời mời'",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/mail-pc-2-3.png"
+      },
+      {
+        "step": 4,
+        "title": "Nhận thư mời qua email",
+        "description": "Hệ thống sẽ gửi lời mời vào địa chỉ email của từng người. Liên hệ với những người được mời và báo họ tham gia vào tổ chức..",
+        "image_url": null
+      }
+     ],
+    "link": [ 
+      {
+        "step": 1,
+        "title": "click vào 'Cài đặt'",
+        "description": "Bạn có thể mời thành viên thông qua link liên kết, mã liên kết hoặc vó thể mã QR",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b1.png"
+      },
+      {
+        "step": 2,
+        "title": "Mời qua Link liên kết",
+        "description": "Chọn ‘Mời nhanh’ sau đó nhấn ‘sao chép liên kết’. Rồi gửi cho người bạn muốn mời. Người được mời mở link để tiến hành các bước tham gia vào tổ chức được mời.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b4.png"
+      },
+      {
+        "step": 3,
+        "title": "Mời qua 'Mã liên kết'",
+        "description": "Chọn ‘Mời nhanh’ sau đó nhấn ‘sao chép mã liên kết’. Rồi gửi cho người bạn muốn mời. Người được mời nhận được mã liên kết và tiến hành các bước tham gia vào tổ chức được mời.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b5.png"
+      },
+      {
+        "step": 4,
+        "title": "Mời qua 'Mã QR'",
+        "description": "Chọn ‘Mời nhanh’ sau đó nhấn ‘sao chép mã QR lời mời’. Rồi gửi cho người bạn muốn mời. Người được mời nhận được mã QR lời mời, quét QR và tiến hành quét các bước tham gia vào tổ chức được mời.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/add-team-b6.png"
+      }
+     ]
+  },
+  "mobile": {
+    "số điện thoại": [
+      {
+        "step": 1,
+        "description": null,
+        "title": "Mở ứng dụng, Chọn 'Mời thành viên mới thông qua số điện thoại/email'",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/phone-mb-1-2.jpeg"
+      },
+      {
+        "step": 2,
+        "title": "Nhập số điện thoại vào ô trên màn hình",
+        "description": "Chọn role cho người bạn muốn mời và nhập số điện thoại vào ô bên dưới.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/phone-mb-1-2.jpeg"
+      },
+      {
+        "step": 3,
+        "title": "Nhận liên kết từ SMS",
+        "description": "Tin nhắn có chứa đường link truy cập Fiine sẽ được gửi tới số điện thoại của người được mời. Người nhận ấn vào đường link để truy cập Fiine",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/phone-mb-3.jpeg"
+      },
+      {
+        "step": 4,
+        "title": "Chọn tổ chức và hoàn tất",
+        "description": "Sau đó, người nhận sẽ chọn tổ chức mà họ muốn tham gia và hoàn tất quá trình đăng ký.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/phone-mb-4.jpeg"
+      }
+    ],
+    "email": [ 
+      {
+        "step": 1,
+        "title": "Chọn 'Mời thành viên mới thông qua số điện thoại/email'",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/mail-mb-1.jpeg"
+      },
+      {
+        "step": 2,
+        "title": "Nhập địa chỉ email",
+        "description": "Trên màn hình hiện ô nhập địa chỉ email. Nhập địa chỉ email của người bạn muốn mời. Nhấn 'Enter' để thêm nhiều địa chỉ email.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/mail-mb-2.jpeg"
+      },
+      {
+        "step": 3,
+        "title": "Nhận được Email từ tổ chức",
+        "description": "Người được mời sẽ nhận được thư mời tham gia tổ chức.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/mail-mb-3-4.jpeg"
+      },
+      {
+        "step": 4,
+        "title": "Chọn 'Tham gia ngay' để tham gia tổ chức",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/mail-mb-3-4.jpeg"
+      }
+    ],
+    "link": [ 
+      {
+        "step": 1,
+        "title": "Chọn mời thành viên bằng 'Mã liên kết'",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/linkcode-mb-1-2.jpeg"
+      },
+      {
+        "step": 2,
+        "title": "Sao chép mã liên kết",
+        "description": "Sao chép mã liên kết và gửi cho người mà bạn muốn mời tham gia tổ chức.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/linkcode-mb-1-2.jpeg"
+      },
+      {
+        "step": 3,
+        "title": "Người nhận mã làm theo sau",
+        "description": "Người nhận được mã thực hiện các bước sau. Ấn vào biểu tượng không gian tổ chức phía trên cùng góc phải màn hình.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/linkcode-mb-3-4.jpeg"
+      },
+      {
+        "step": 4,
+        "title": "Chọn 'Thêm không gian làm việc'",
+        "description": "Chọn 'Thêm không gian làm việc'. Sau đó chọn 'Liên kết tổ chức'",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/linkcode-mb-3-4.jpeg"
+      },
+      {
+        "step": 5,
+        "title": "Dán mã liên kết",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/linkcode-mb-5-6.jpeg"
+      },
+      {
+        "step": 6,
+        "title": "Chọn 'Liên kết tổ chức' và chọn 'Liên kết ngay'. Vậy là bạn đã thành công mời thêm thành viên vào tổ chức.",
+        "description": null,
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/orchestai.customer-resources.dev/Fiine/images/original/add_member/linkcode-mb-5-6.jpeg"
+      }
+    ]
+  }
+}

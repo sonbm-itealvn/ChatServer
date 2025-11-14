@@ -1,0 +1,32 @@
+[
+  {
+    "step": 1,
+    "title": "Đăng nhập tài khoản Fiine của bạn tại https://fiine.pro ",
+    "description": "Đăng nhập vào tài khoản Fiine của bạn để sửa đổi thông tin.",
+    "image_url": null
+  },
+  {
+    "step": 2,
+    "title": "Truy cập vào phần 'Việc của tôi'",
+    "description": "Truy cập vào phần ‘việc của tôi’ tại góc trái phía trên màn hình.",
+    "image_url": "https://res.cloudinary.com/dbiwdj0t0/image/upload/v1753688147/pdf_steps/list-work-b2.png"
+  },
+  {
+    "step": 3,
+    "title": "Danh sách công việc",
+    "description": "Tại đây, bạn sẽ thấy danh sách tất cả công việc mà bạn phải thực hiện, từ công việc mới giao đến các công việc đang chờ xử lý.",
+    "image_url": "https://res.cloudinary.com/dbiwdj0t0/image/upload/v1753688147/pdf_steps/list-work-b3.png"
+  },
+  {
+    "step": 4,
+    "title": "Cập nhập trạng thái công việc",
+    "description": "Bạn có thể cập nhật trạng thái công việc ngay trên danh sách bằng cách chọn trạng thái phù hợp cho từng công việc (Đang làm, Hoàn thành, Chờ xử lý)",
+    "image_url": "https://res.cloudinary.com/dbiwdj0t0/image/upload/v1753688147/pdf_steps/update-status-work.png"
+  },
+  {
+    "step": 5,
+    "title": "Xem chi tiết công việc",
+    "description": "Nhấn vào từng công việc để xem chi tiết, bao gồm tên công việc, mô tả, hạn chót, tài liệu đính kèm, người giao việc và người thực hiện.",
+    "image_url": "https://res.cloudinary.com/dbiwdj0t0/image/upload/v1753688147/pdf_steps/work-details.png"
+  }
+]
